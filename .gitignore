@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/PhysicsLearn/Library
+/PhysicsLearn/Temp
+/PhysicsLearn/.vsconfig
+/PhysicsLearn/Assembly-CSharp.csproj
+/PhysicsLearn/PhysicsLearn.sln
+/PhysicsLearn/Logs
+/PhysicsLearn/obj
